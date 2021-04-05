@@ -1,5 +1,5 @@
 
-package Assignment.Runner;
+package Assignment;
 
 public class Calculator 
 {
