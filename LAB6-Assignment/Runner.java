@@ -1,5 +1,5 @@
 
-package Assignment.Runner;
+package Assignment;
 import java.util.Scanner;
 
 public class Runner 
